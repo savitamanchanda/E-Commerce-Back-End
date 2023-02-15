@@ -1,4 +1,5 @@
 # E-Commerce-Back-End
+
 Back End for an e-commerce website that uses Sequelize to interact with a MYSQL Database.
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](${renderLicenseLink(license))
@@ -15,12 +16,12 @@ Back End for an e-commerce website that uses Sequelize to interact with a MYSQL 
 
 
   ## Description
-
-    Back End for an e-commerce website that uses Sequelize to interact with a MYSQL Database.
   
-    This project was created so that a manager at an internet retail company can use latest technology to keep track of their products and items. 
+  Back End for an e-commerce website that uses Sequelize to interact with a MYSQL Database.
+  
+  This project was created so that a manager at an internet retail company can use latest technology to keep track of their products and items. 
 
-[](./assets%3Aimages/e-commerce.gif)
+[Video Demonstration](./assets%3Aimages/e-commerce.gif)
 
   ## Installation 
 
